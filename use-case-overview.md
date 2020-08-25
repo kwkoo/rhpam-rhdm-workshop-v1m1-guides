@@ -78,7 +78,7 @@ This is the set of rules that can be used to determine the risk involved on the 
 
 #### Functional Requirements for the Decision Automation:
 
-Have business rules that will take into account consistent criteria defined to assess risk and automate processing. The business user must have the ability to change these criteria anytime if needed, and apply the changes according to the release process of Pecunia Corp.. 
+Have business rules that will take into account consistent criteria defined to assess risk and automate processing. The business user must have the ability to change these criteria anytime if needed, and apply the changes according to the release process of Pecunia Corp..
 
 
 #### Non Functional for the Decision Automation:

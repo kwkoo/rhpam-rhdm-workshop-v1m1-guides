@@ -6,8 +6,8 @@ The cloud native OpenShift environment has already been provisioned for you. You
 
 1. This is the link to access [Red Hat Openshift Container Platform]({{ OPENSHIFT_CONSOLE_URL }}){:target="_blank"}
 2. The instructor should also assign to you a unique user number, which you will use from now on to access your OCP environment.
-    - OpenShift Console username: userX (i.e. user1)
-    - OpenShift Console password: openshift
+    - OpenShift Console username: `userX` (i.e. `user1`)
+    - OpenShift Console password: `openshift`
 
 ## Login on OpenShift
 
@@ -32,7 +32,7 @@ The easiest way to login to the OpenShift system via the command line interface,
 
 ![OCP Copy Login Command]({% image_path ocp-copy-login-command.png %}){:width="600px"}
 
-1. Login to [Openshift Console](https://{{ OPENSHIFT_CONSOLE_URL }}){:target="_blank"}
+1. Login to [Openshift Console]({{ OPENSHIFT_CONSOLE_URL }}){:target="_blank"}
 2. Click on `Copy Login Command`
 3. OpenShift will request your credentials again. Inform them.
 4. Click on `Display Token`
